@@ -1,21 +1,9 @@
-### Olá, eu sou Igor Ramiro, um programador
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorramiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorramiro&layout=compact&langs_count=7&theme=dracula"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=2aa889&background=A2FFDC00&center=true&vCenter=true&width=1000&height=90&lines=Ol%C3%A1%2C+eu+sou+Igor+Ramiro;Tenho+21+anos;Estudante+de+ci%C3%AAncia+da+computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+---
+
+<div align="center" >
+
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=igorramiro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorramiro&layout=compact&langs_count=6&theme=gotham"/>
+  
 </div>
-
-<!--
-**igorramiro/igorramiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
